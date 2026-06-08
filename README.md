@@ -4,7 +4,7 @@ Submitted by: **Jeremy Ashley**
 
 This web app: **This app displays upcoming events, from musical features, to sporting events**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
