@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='![Demo](./Web102%20-%20Imgur.gif)' width='' alt='Video Walkthrough' />
+<img src='Web102 - Imgur.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
