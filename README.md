@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/cNJXgKx"  ><a href="//imgur.com/a/cNJXgKx">Web102</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' width='' alt='Video Walkthrough' />
+<img src='![](https://i.imgur.com/Zv6m96U.gif)' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
